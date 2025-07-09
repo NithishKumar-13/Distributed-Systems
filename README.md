@@ -1,2 +1,2 @@
 # Distributed Systems
-In this repository, I will be adding the resources and materials that I have used in my DS course.
+In this repository, I'll be adding all the resources, materials, and my own notes from my Distributed Systems course.
